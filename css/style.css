@@ -53,3 +53,30 @@ header{
     color: crimson;
     font-size: 25px;
 }
+
+img{
+
+    width: 250px;
+    height: auto;
+    margin-left: 40px;
+
+
+}
+#projects{
+    margin-top: 0;
+    padding-top: 20px;
+    background-color: rgb(69, 86, 125);
+    padding-bottom: 50px;
+}
+
+footer{
+    padding: 30px;
+    background-color: #383838;
+    color: white;
+    
+}
+
+#h1{
+    color: white;
+    font-size: 65px;
+}
